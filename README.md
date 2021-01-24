@@ -58,7 +58,7 @@
 
 ## 使用ツール
 
-- Slack, Discord（コミュニケーション）
+- Slack, Discord, ZOOM（コミュニケーション）
 
 - JIRA, Trello（タスク管理）
 
@@ -74,6 +74,9 @@
 
 - Heroku
   無料枠でのデプロイ
+
+- Docker
+  複数人での開発で使用
 
 ## SNS
 
