@@ -35,3 +35,13 @@
 
 - 自社サービスのフロント周り改修
 - 新規案件のサーバーサイド周り担当
+
+## その他
+
+- Twitter: https://twitter.com/6k1RQzGG8nxr9OC
+
+- Facebook: https://www.facebook.com/yoshiharuchibaa/
+
+- Wantedly: https://www.wantedly.com/id/yoshiharu_chiba
+
+- ブログ: https://techtechmedia.com/
